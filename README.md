@@ -12,8 +12,8 @@ This project uses Terraform to provision and manage infrastructure on DigitalOce
 
 1. **Clone the repository**:
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/CloudEnochCSIS/TF4cloudresume.git
+    cd TF4cloudresume
     ```
 
 2. **Create a `terraform.tfvars` file**:
